@@ -1,0 +1,5 @@
+.DS_Store
+vendor/
+account.txt
+contract.sol
+conf.json
